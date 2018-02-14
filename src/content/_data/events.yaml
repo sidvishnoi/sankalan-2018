@@ -99,10 +99,8 @@ make-app:
   teamSize: 2
   lang: cpp
   rounds:
-    -  The teams would be asked to develop an android/ios application on spot at day 2 of Sankalan.They have to present their project to judges for final evaluation
+    -  The teams would be asked to develop an android/ios application on spot at day 2 of Sankalan. Theme will be provided on spot.They will be given 8 hours that is from 10am-6pm. They have to present their project to judges for final evaluation
   details:
-    - 'Theme will be provided on spot.'
-    - 'You will be given 8 hours that is from 10am-6pm'
     - 'Note:The teams need to bring their own system with the required software installed. Internet will be provided.'
     - 'Registration fee: Rs. 50/-'
     - 'Operating System: Any Suitable System.'
