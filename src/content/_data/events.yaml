@@ -280,7 +280,7 @@ technospeak:
      - 'Compiler:DevCpp'
     
     
-  beg-borrow-steal:
+beg-borrow-steal:
   title: Beg Borrow Steal
   quote:
     text: You can plead, you can use your charm or else you can steal.
@@ -304,7 +304,7 @@ technospeak:
        
        
        
-  cypher-o-more:
+cypher-o-more:
   title: Cypher-o-more
   quote:
     text: There are two types of encryption: one that will prevent your sister from reading your diary and one that will prevent your government.
