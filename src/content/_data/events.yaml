@@ -96,7 +96,7 @@ spin-a-hack:
   isnontech: false
   image: https://4.bp.blogspot.com/-OnrAGeqSHKY/WoVRiZyckZI/AAAAAAAAAHk/wYhkfZvU54kZ7Osq4E-aI4WKg9ZTaxxpgCLcBGAs/s1600/makeapp.png
   teamSize: 2
-  lang: cpp
+  lang: js
   rounds:
     -  The teams would be asked to develop a website or an android/ios application. They have to present their project to judges for final evaluation
   details:
@@ -124,8 +124,8 @@ mind-matters:
 coding-cup:
   title: DUCS Coding Cup
   quote:
-    text:If debugging is the process of removing software bugs, then programming must be the process of putting them in. 
-    by:Edsger Dijkstra
+    text: If debugging is the process of removing software bugs, then programming must be the process of putting them in. 
+    by: Edsger Dijkstra
   description:  |-
     This is a special event mainly targeting the students of undergraduate pursuing their bachelor’s in Computer Science from Delhi University. 
     Students will gain ample amount of knowledge and practice which will help them increase their coding skills. 
@@ -134,12 +134,12 @@ coding-cup:
   isnontech: false
   image: https://2.bp.blogspot.com/-8R7BMj3aL5g/WoVRk4PjVlI/AAAAAAAAAHw/1qje7sRyf1EAw73fgaP7kmC2wm1yGhwJwCLcBGAs/s1600/spin-a-web.png
   teamSize: 2
-  lang: c/c++/java/python
+  lang: cpp
   rounds:
     - The teams will have to solve the coding questions online.
   details:
-    -'This will be an overnight event'
-    -'You can solve the coding questions in any language c/c++/java/python'
+    - 'This will be an overnight event'
+    - 'You can solve the coding questions in any language c/c++/java/python'
     
 chakravyuh:
   title: Chakravyuh
