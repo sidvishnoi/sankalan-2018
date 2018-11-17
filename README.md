@@ -33,6 +33,8 @@ If you need to test the website in some other device, make sure you edit the `ba
 
 # Suggest edits
 
+<details>
+  <summary>This repository is no longer maintained and now archived.</summary>  
 I'll archive this repository when the fest is done. So make sure you give your edits before that. (Would be meaningless otherwise)
 
 1. Fork and clone the repository.
@@ -41,6 +43,9 @@ I'll archive this repository when the fest is done. So make sure you give your e
 4. Submit a pull request.
 
 Also, please report any issues you face in website or the build process.
+</details>
+
+
 
 # Deployment
 
