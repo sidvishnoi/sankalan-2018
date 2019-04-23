@@ -1,6 +1,6 @@
 # Sankalan 2018
 
-This repository contains the source code for Sankalan 2018 website (https://www.ducs.in/sankalan/).
+This repository contains the source code for Sankalan 2018 website ~(https://www.ducs.in/sankalan/)~ http://jealous-polish.surge.sh/sankalan/2018/.
 
 See also: https://github.com/sidvishnoi/dashboard.ducs.in
 
